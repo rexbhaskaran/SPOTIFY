@@ -57,7 +57,7 @@ After the data is inserted, various SQL queries can be written to explore and an
 - More complex queries involving grouping, aggregation functions, and joins.
   
 #### Advanced Queries
-- Nested subqueries, window functions, CTEs, and performance optimization.
+- Nested subqueries, window functions and CTEs.
 
 ### 5. Query Optimization
 In advanced stages, the focus shifts to improving query performance. Some optimization strategies include:
