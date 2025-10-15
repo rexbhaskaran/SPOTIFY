@@ -73,7 +73,6 @@ WHERE stream > 1000000000
 ```
 2. List all albums along with their respective artists.
 ```sql
-W
 SELECT 
 	DISTINCT album,
 	artist 
