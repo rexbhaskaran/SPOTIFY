@@ -65,11 +65,12 @@ After the data is inserted, various SQL queries can be written to explore and an
 
 ### Easy Level
 1. Retrieve the names of all tracks that have more than 1 billion streams.
-'''sql
+```sql
+
 SELECT * FROM spotify
 WHERE stream > 1000000000
-'''
 
+```
 3. List all albums along with their respective artists.
 4. Get the total number of comments for tracks where `licensed = TRUE`.
 5. Find all tracks that belong to the album type `single`.
